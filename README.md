@@ -1,6 +1,6 @@
 #Euphorianet
 
-Proyectos que se trabajen en Euphorianet
+Proyectos que se trabajen en Euphoriane
 
 #JeansTyt
 
