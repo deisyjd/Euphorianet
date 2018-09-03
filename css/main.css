@@ -7,7 +7,7 @@
 
 .bg-progress
 {
-  background: #e6e0d3;
+  background: #ececec;
 }
 
 .text-prog
@@ -16,21 +16,28 @@
   font-size:10px;
 }
 
+.text-prog-footer
+{
+  color:#5a5a52;
+  font-size:10px;
+}
+
 .ui-progressbar
 {
+  background:#3e3e3d;
   height:20px;
 }
 
 .ui-progressbar-value
 {
-  height:19px;
-  background: #63afb1;
+  height:18px;
+  background: #1DD21D;
 }
 
 .box-truck
 {
   background: #3e3e3d;
-  height:61px;
+  height:63px;
   color:#fff;
 }
 
@@ -45,4 +52,50 @@
   font-size: 11px;
   margin-top: 10px;
   
+}
+
+.padding-3
+{
+  padding: 3px !important;
+}
+
+.padding-3-last
+{
+  padding: 3px !important;
+  width: auto !important;
+}
+
+#p_lt_ctl06_RemainingAmountForFreeShipping1_upnlAjax{
+  font-size:11px;
+  text-align:center;
+}
+
+.my-progress
+{
+  padding-top: 12px;
+  text-align: center;
+}
+
+.text-prog-footer
+{
+  font-size:14px;
+  font-weight:bold;
+}
+
+.truck-text-footer {
+    text-align: center;
+    font-size: 15px;
+    margin-top: 18px;
+}
+
+#p_lt_ctl12_pageplaceholder_p_lt_ctl03_wPL_p_lt_ctl01_wPP_p_lt_ctl00_wWPZ2_wWPZ2_zone_RemainingAmountForFreeShipping_upnlAjax
+{
+  text-align:center;
+  font-weight:bold;
+}
+
+.texto-envio
+{
+  font-weight:bold;
+  font-size:14px;
 }
